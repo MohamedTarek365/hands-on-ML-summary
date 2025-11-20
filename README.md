@@ -54,5 +54,3 @@ MIT License
 ![GitHub last commit](https://img.shields.io/github/last-commit/MohamedTarek365/hands-on-ml-summary)
 ![GitHub repo size](https://img.shields.io/github/repo-size/MohamedTarek365/hands-on-ml-summary)
 ![GitHub stars](https://img.shields.io/github/stars/MohamedTarek365/hands-on-ml-summary?style=social)
-![GitHub repo size](https://img.shields.io/github/repo-size/MohamedTarek365/hands-on-ml-summary)
-![GitHub stars](https://img.shields.io/github/stars/MohamedTarek365/hands-on-ml-summary?style=social)
