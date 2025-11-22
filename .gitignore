@@ -1,0 +1,5 @@
+# Ignore JetBrains project settings
+.idea/
+
+# Ignore Anaconda Projects folder
+anaconda_projects/
